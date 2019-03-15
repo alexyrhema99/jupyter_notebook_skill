@@ -7,7 +7,7 @@ Record some useful(?) jupyter notebook skill.
     *   [running CARN R](##running CARN R)
     *   [running Microsoft R Open, MRO](##running Microsoft R Open, MRO)
 
-**Keywords: jupyter notebook skill, encoding, **
+**Keywords: jupyter notebook skill, encoding **
 
 ---
 # 一些jupyter notebook小技巧
