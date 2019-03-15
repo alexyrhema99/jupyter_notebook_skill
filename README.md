@@ -1,9 +1,9 @@
 # jupyter_notebook_skill
 Record some useful(?) jupyter notebook skill.
 > Last change 20190315
-
-*   [一些jupyter notebook小技巧](#一些jupyter notebook小技巧)
-*   [Running MRO kernel on jupyter](#Running MRO kernel on jupyter)
+  
+-   [一些jupyter notebook小技巧](#一些jupyter notebook小技巧)  
+-   [Running MRO kernel on jupyter](#Running MRO kernel on jupyter)
     *   [running CARN R](##running CARN R)
     *   [running Microsoft R Open, MRO](##running Microsoft R Open, MRO)
 
@@ -30,7 +30,6 @@ ValueError: Please install nodejs 5+ and npm before continuing installation. nod
     - 官方Github，有安裝與使用設定教學
 - [jupyterthemes](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/toc2/README.html)
     - 官方Github，有安裝與使用設定教學。(介面看起來比較friendly~XD)
-
 
 
 ---
