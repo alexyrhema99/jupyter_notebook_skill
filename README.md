@@ -5,7 +5,7 @@ Record some useful(?) jupyter notebook skill.
 *   [一些jupyter notebook小技巧](#一些jupyter-notebook小技巧)  
 *   [Running MRO kernel on jupyter](#Running-MRO-kernel-on-jupyter)
     *   [running CARN R](##running-CARN-R)
-    *   [running Microsoft R Open, MRO](##running-Microsoft-R Open,-MRO)
+    *   [running Microsoft R Open, MRO](##running-Microsoft-R-Open-MRO)
 
 __Keywords: jupyter notebook skill, encoding__
 
